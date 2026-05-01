@@ -64,10 +64,4 @@
 
 ---
 
-## GitHub stats
-
-![Taimoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaimoorPal&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 *ISTQB CTFL Certified · Senior QA & AI Test Engineer · Lahore, Pakistan*
